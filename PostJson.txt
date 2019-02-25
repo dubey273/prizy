@@ -1,0 +1,6 @@
+{
+"storeName" : "S5",
+"productBarCode" : "B1",
+"price" : "57",
+"notes" : "N7"
+}
