@@ -1,0 +1,11 @@
+Important Links :
+
+To get product List : http://localhost:8080/v1/product 
+To get product Survey Information : http://localhost:8080/v1/survey/product/B1
+(Here B1 is barcode.You will get the product survey information in link attribute of product in Product List Also)
+To Submit Product Information (Method : POST) : http://localhost:8080/v1/survey/product
+(Use Sample json to submit the product survey Information)
+
+
+H2 Embedded Database Link : http://localhost:8080/h2-console
+JDBC URL : jdbc:h2:mem:testdb
